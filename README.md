@@ -1,4 +1,3 @@
-Base
 Block Party: Part 1
 
 Part 2
